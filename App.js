@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
-const Drawer = createDrawerNavigator();
+const gay = createDrawerNavigator();
 
 function DrawerNavigation() {
   return (
